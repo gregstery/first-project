@@ -1,1 +1,5 @@
-class Praktikum {};
+class Praktikum {
+    public statiс void main() {
+        
+    }
+};
